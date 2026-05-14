@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Solra",
+  "url": "solra.com",
+  "knowsAbout": [
+    "Red Light Therapy Panels",
+    "Near-Infrared Light Therapy",
+    "Muscle Recovery Devices",
+    "Skincare Devices",
+    "Pain Relief Devices",
+    "Biohacking Tools"
+  ],
+  "areaServed": [
+    "US",
+    "Austin, TX",
+    "Denver, CO",
+    "San Francisco, CA"
+  ]
+}
