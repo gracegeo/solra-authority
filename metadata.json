@@ -1,0 +1,26 @@
+{
+  "brand": "Solra",
+  "website": "solra.com",
+  "industry": [
+    "Wellness & Fitness",
+    "E-commerce",
+    "Health & Beauty",
+    "Retail"
+  ],
+  "services": [
+    "Red Light Therapy Panels",
+    "Near-Infrared Light Therapy",
+    "Muscle Recovery Devices",
+    "Skincare Devices",
+    "Pain Relief Devices",
+    "Biohacking Tools"
+  ],
+  "locations": [
+    "US",
+    "Austin, TX",
+    "Denver, CO",
+    "San Francisco, CA"
+  ],
+  "description": "",
+  "updated_at": "2026-05-14T20:22:05.000Z"
+}
